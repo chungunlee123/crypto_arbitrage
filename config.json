@@ -1,0 +1,16 @@
+{
+    "API_Caller_UpBit": {
+        "Platform": "UpBit",
+        "Class": "APICallerUpBit",
+        "URL": "https://api.upbit.com/v1/trades/ticks?market=USDT-BTC&count=1",
+        "APIKey": "rzGIshF2o1FZgyRn7OEtnLfHKmyHbarTNhwTCBf3",
+        "APISecret": "9EXgIdsayVaLzfL9eDiypyYMVvP28DiLJeQEOkmW"
+    },
+    "Web_Crawler_Satoshi": {
+        "Platform": "Satoshi",
+        "Class": "WebCrawlerSatoshi",
+        "URL": "https://www.satoshitango.com/global/cryptocurrencies/bitcoin",
+        "WebDriverPath":"http://localhost:4444",
+        "TargetXPath":"//section[1]/div[1]/div[1]/div[1]/p[1]"
+    }
+}
