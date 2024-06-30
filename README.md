@@ -1,4 +1,4 @@
-# CIT - 5900 - Final Project
+# Cryptocurrency Arbitrage Trading
 
 ## Dependencies
 - Requests (pip install requests)
